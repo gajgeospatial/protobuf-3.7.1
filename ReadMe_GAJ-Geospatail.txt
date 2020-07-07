@@ -1,0 +1,1 @@
+This project should be installed as PROTOBUF_DIR with ProjectTool.

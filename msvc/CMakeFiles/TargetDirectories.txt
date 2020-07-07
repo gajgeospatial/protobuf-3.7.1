@@ -1,0 +1,7 @@
+C:/Development/op3d_active/protobuf-3.7.1/msvc/CMakeFiles/protoc.dir
+C:/Development/op3d_active/protobuf-3.7.1/msvc/CMakeFiles/libprotobuf-lite.dir
+C:/Development/op3d_active/protobuf-3.7.1/msvc/CMakeFiles/libprotoc.dir
+C:/Development/op3d_active/protobuf-3.7.1/msvc/CMakeFiles/libprotobuf.dir
+C:/Development/op3d_active/protobuf-3.7.1/msvc/CMakeFiles/INSTALL.dir
+C:/Development/op3d_active/protobuf-3.7.1/msvc/CMakeFiles/ALL_BUILD.dir
+C:/Development/op3d_active/protobuf-3.7.1/msvc/CMakeFiles/ZERO_CHECK.dir
